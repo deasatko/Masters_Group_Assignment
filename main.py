@@ -17,7 +17,7 @@ df_cleaned = df[columns_to_keep]
 print("Cleaned DataFrame:")
 print(df_cleaned.head())
 
-cleaned_dataset_path = 'data/cleaned.csv'
+cleaned_dataset_path = 'data/original_data.csv'
 df_cleaned.to_csv(cleaned_dataset_path, index=True)
 
 print(f"Cleaned dataset saved to {cleaned_dataset_path}")
