@@ -3,3 +3,4 @@ ipykernel
 numpy
 seaborn
 matplotlib
+scipy.stats
