@@ -51,5 +51,33 @@ This scatter plot explores the relationship between the number of customer ratin
 
 4. **Customer Engagement** The scatter plot shows the relationship between price discounts and the number of customer reviews. If a strong correlation exists between discounts and increased reviews, Amazon could consider offering strategic discounts to boost engagement and gather more customer feedback.
 
+
+## Tableau:
+
+![Graph](../resources/image.png)
+
+This bar chart visualizes the average customer ratings for products within different main product categories. Each bar represents the average rating of products within a specific category, providing an easy-to-understand comparison of customer satisfaction across categories.
+
+***Key Elements in the Chart:***
+
+    X-axis (Categories)
+    Y-axis (Average Ratings): The y-axis represents the average customer rating for products in each category.
+    
+    Bar Height: The height of each bar corresponds to the average rating for that category. Taller bars indicate higher customer satisfaction, while shorter bars suggest lower satisfaction.
+    
+    Highlighted Ratings: Some ratings are displayed on top of the bars to provide clarity on the exact average for the highest and lowest categories (e.g., 4.059 for "grocery & gourmet" and 2.750 for "home, kitchen").
+
+
+***Insights from the Visualisation:***
+
+    Highest-Rated Category:
+    The "grocery & gourmet" category has the highest average rating (4.059), suggesting that customers are most satisfied with products in this category.
+
+    Lowest-Rated Category:
+    The "home, kitchen" category has the lowest average rating (2.750), indicating relatively lower customer satisfaction.
+
+    Uniformity Across Categories:
+    Most categories have relatively high ratings (around 3.7-4.0), which indicates a generally positive customer experience across a broad range of product types.
+
 ---
 ---
